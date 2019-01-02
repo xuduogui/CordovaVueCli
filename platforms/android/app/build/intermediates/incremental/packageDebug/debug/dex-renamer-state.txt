@@ -1,0 +1,4 @@
+#Wed Jan 02 15:13:33 CST 2019
+base.0=E\:\\prison\\cli\\CordovaVueCli\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
